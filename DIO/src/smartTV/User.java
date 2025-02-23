@@ -3,23 +3,25 @@ package smartTV;
 public class User {
     public static void main(String[] args) throws Exception {
 
-        SmartTV tv = new SmartTV();
+        SmartTV tv = new SmartTV(1, 99);
+        tv.setOn(true);
+        tv.setChannel(5);
+        tv.setVolume(15);
 
-        System.out.println("TV status: " + tv.isOn);
-        System.out.println("Current channel: " + tv.channel);
-        System.out.println("Current volume: " + tv.volume);
-
-        System.out.println("\nTurning the tv on");
-        tv.turnOn();
-        if (tv.isOn) {
+        if (tv.getOn()){
             System.out.println("TV status: ON");
+            System.out.println("Current channel: " + tv.getChannel());
+            System.out.println("Current volume: " + tv.getVolume());
         } else {
             System.out.println("TV status: OFF");
         }
-        tv.increaseVolume();
-        tv.changeChannel(64);
-        System.out.println("Current channel changed to " + tv.channel);
-        System.out.println("Volume increased to " +tv.volume);
+
+        tv.changeChannel(60);
+        System.err.println("\nChannel changed to " + tv.getChannel());
+
+        
+
+
     
 
 
