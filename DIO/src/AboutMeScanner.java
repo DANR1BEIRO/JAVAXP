@@ -22,6 +22,7 @@ public class AboutMeScanner {
         System.out.println("I'm " + age + " years old");
         System.out.println("My height is " + height + "m");
         
+        input.close();
     }
 
 }
