@@ -1,0 +1,19 @@
+{
+	"System Out Print": {
+	  "scope": "java",
+	  "prefix": "soup",
+	  "body": [
+		"System.out.print($1);"
+	  ],
+	  "description": "Atalho para System.out.print"
+	},
+	"System Out Println": {
+	  "scope": "java",
+	  "prefix": "souf",
+	  "body": [
+		"System.out.println($1);"
+	  ],
+	  "description": "Atalho para System.out.println"
+	}
+  }
+  
