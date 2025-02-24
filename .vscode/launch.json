@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Arithmetic",
+            "request": "launch",
+            "mainClass": "Arithmetic",
+            "projectName": "JAVAXP_b9a7ebdd"
+        },
+        {
+            "type": "java",
             "name": "AboutMeScanner",
             "request": "launch",
             "mainClass": "AboutMeScanner",
