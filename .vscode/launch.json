@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArithmeticSmallestAndLargest",
+            "request": "launch",
+            "mainClass": "ArithmeticSmallestAndLargest",
+            "projectName": "JAVAXP_b9a7ebdd"
+        },
+        {
+            "type": "java",
             "name": "ComparingIntegers",
             "request": "launch",
             "mainClass": "ComparingIntegers",

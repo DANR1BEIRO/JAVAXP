@@ -9,11 +9,19 @@
 	},
 	"System Out Println": {
 	  "scope": "java",
-	  "prefix": "souf",
+	  "prefix": "sout",
 	  "body": [
 		"System.out.println($1);"
 	  ],
 	  "description": "Atalho para System.out.println"
+	},
+	"System Out Printf": {
+	  "scope": "java",
+	  "prefix": "souf",
+	  "body": [
+		"System.out.printf($1);"
+	  ],
+	  "description": "Atalho para System.out.printf"
 	}
   }
   
