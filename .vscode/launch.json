@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ComparingIntegers",
+            "request": "launch",
+            "mainClass": "ComparingIntegers",
+            "projectName": "JAVAXP_b9a7ebdd"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVAXP_b9a7ebdd"
+        },
+        {
+            "type": "java",
+            "name": "TerminalAccount",
+            "request": "launch",
+            "mainClass": "TerminalAccount",
+            "projectName": "JAVAXP_b9a7ebdd"
+        },
+        {
+            "type": "java",
             "name": "Arithmetic",
             "request": "launch",
             "mainClass": "Arithmetic",
