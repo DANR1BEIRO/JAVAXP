@@ -15,7 +15,7 @@ public class CalculadoraDeMedias {
 
         int soma = 0;
         for (String aluno : alunos) {
-            System.out.printf("Nota do aluno %s", aluno);
+            System.out.printf("Nota do aluno %s: ", aluno);
             int nota = scanner.nextInt();
             soma += nota;
         }
