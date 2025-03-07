@@ -7,7 +7,7 @@
 
  import java.util.Scanner;
 
-public class ComparingIntegers {
+public class Class02ComparingIntegers {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

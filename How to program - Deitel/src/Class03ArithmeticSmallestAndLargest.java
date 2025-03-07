@@ -7,7 +7,7 @@
  */
 import java.util.Scanner;
 
-public class ArithmeticSmallestAndLargest {
+public class Class03ArithmeticSmallestAndLargest {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
