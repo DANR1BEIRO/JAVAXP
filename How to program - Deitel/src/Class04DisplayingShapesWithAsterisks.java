@@ -2,6 +2,8 @@ public class Class04DisplayingShapesWithAsterisks {
     public static void main(String[] args) {
         drawBox();
         drawElipse();
+        drawArrow();
+        drawDiamond();
     }
 
     // drawns a box
@@ -18,7 +20,7 @@ public class Class04DisplayingShapesWithAsterisks {
 
     // draws a elipse
     public static void drawElipse() {
-        System.out.println("ELIPSE: ");
+        System.out.println("\nELIPSE: ");
 
         System.out.println("    *   *  ");
         System.out.println(" *         * ");
@@ -26,5 +28,34 @@ public class Class04DisplayingShapesWithAsterisks {
         System.out.println("*           *");
         System.out.println(" *         * ");
         System.out.println("    *   *  ");
+    }
+
+    // arrow
+    public static void drawArrow() {
+        System.out.println("\nARROW: ");
+        System.out.println("   *");
+        System.out.println("  ***");
+        System.out.println(" *****");
+        System.out.println("   *");
+        System.out.println("   *");
+        System.out.println("   *");
+        System.out.println("   *");
+        System.out.println("   *");
+
+    }
+
+    // Diamond
+    public static void drawDiamond() {
+        System.out.println("\nDIAMOND: ");
+        System.out.println("      *");
+        System.out.println("    *   *");
+        System.out.println("   *     *");
+        System.out.println("  *       *");
+        System.out.println(" *         *");
+        System.out.println("  *       *");
+        System.out.println("   *     *");
+        System.out.println("    *   *");
+        System.out.println("      *");
+
     }
 }
