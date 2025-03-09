@@ -1,4 +1,4 @@
-package introduction.SelectiveProcessValidationSystem;
+package BradescoJavaCloudNative.introduction.SelectiveProcessValidationSystem;
 
 public class Class01_Candidate {
     private String name;

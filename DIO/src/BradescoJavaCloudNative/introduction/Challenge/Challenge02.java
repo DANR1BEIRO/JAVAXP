@@ -1,4 +1,4 @@
-package introduction.Desafios;
+package BradescoJavaCloudNative.introduction.Challenge;
 /*
 * Crie um programa que classifique os clientes de um banco com base no saldo de suas contas.
 *  O programa deve receber o saldo e classificá-lo em três categorias:
@@ -9,7 +9,7 @@ package introduction.Desafios;
 
 import java.util.Scanner;
 
-public class Desafio02 {
+public class Challenge02 {
 
     public static void main(String[] args) {
 

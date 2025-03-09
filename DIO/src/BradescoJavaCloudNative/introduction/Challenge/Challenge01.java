@@ -1,4 +1,4 @@
-package introduction.Desafios;
+package BradescoJavaCloudNative.introduction.Challenge;
 /**
  * Implemente um programa em Java que receba o saldo inicial de uma conta bancária
  * e três transações (positivas para depósitos e negativas para saques).
@@ -7,7 +7,7 @@ package introduction.Desafios;
 
 import java.util.Scanner;
 
-public class Desafio01 {
+public class Challenge01 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package introduction.smartTV;
+package BradescoJavaCloudNative.introduction.smartTV;
 
 public class User {
     public static void main(String[] args) throws Exception {

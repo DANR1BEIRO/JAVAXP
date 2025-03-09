@@ -1,4 +1,4 @@
-package introduction.smartTV;
+package BradescoJavaCloudNative.introduction.smartTV;
 
 public class SmartTV {
     
