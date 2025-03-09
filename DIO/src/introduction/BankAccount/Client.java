@@ -1,4 +1,4 @@
-package BankAccount;
+package introduction.BankAccount;
 
 public class Client {
 

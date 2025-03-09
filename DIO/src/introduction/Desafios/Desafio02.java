@@ -1,4 +1,4 @@
-package Desafios;
+package introduction.Desafios;
 /*
 * Crie um programa que classifique os clientes de um banco com base no saldo de suas contas.
 *  O programa deve receber o saldo e classificá-lo em três categorias:

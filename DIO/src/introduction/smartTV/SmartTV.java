@@ -1,4 +1,4 @@
-package smartTV;
+package introduction.smartTV;
 
 public class SmartTV {
     

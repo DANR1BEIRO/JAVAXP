@@ -1,4 +1,4 @@
-package FlowControlChallenge;
+package introduction.FlowControlChallenge;
 import java.util.Scanner;
 
 class InvalidParametersException extends Exception {
