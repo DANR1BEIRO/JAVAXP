@@ -1,2 +1,2 @@
-## OOP using naruto
+Concepts of OOP using naruto examples.
 
