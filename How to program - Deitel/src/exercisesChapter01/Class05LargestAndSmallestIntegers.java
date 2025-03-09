@@ -1,4 +1,4 @@
-/*
+package exercisesChapter01;/*
  * Write an application that reads five integers and determines and
  * prints the largest and smallest integers in the group.
  */
