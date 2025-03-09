@@ -5,7 +5,7 @@ from the user and prints their sum, product, difference and quotient (division).
  */
 import java.util.Scanner;
 
-public class class01Arithmetic {
+public class Class01Arithmetic {
     public static void main(String[] args) {
        Scanner input = new Scanner(System.in); 
 
