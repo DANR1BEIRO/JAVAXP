@@ -1,0 +1,2 @@
+Create a program that represents three ninjas from the Hidden Leaf Village (Konoha) from "Naruto" and their respective missions.
+Each ninja has a name, an age, and an assigned mission, which includes the mission's name, difficulty level, and completion status.
