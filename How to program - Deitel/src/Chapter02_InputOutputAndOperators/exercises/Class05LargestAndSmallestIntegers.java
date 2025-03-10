@@ -1,4 +1,4 @@
-package exercisesChapter01;/*
+package Chapter02_InputOutputAndOperators.exercises;/*
  * Write an application that reads five integers and determines and
  * prints the largest and smallest integers in the group.
  */

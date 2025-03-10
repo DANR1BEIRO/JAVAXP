@@ -1,4 +1,4 @@
-package exercisesChapter01; /**
+package Chapter02_InputOutputAndOperators.exercises; /**
  * Write an application that asks the user to enter two integers,
  * obtains them from the user and displays the larger number followed
  * by the words "is larger". If the numbers are equal, print the message

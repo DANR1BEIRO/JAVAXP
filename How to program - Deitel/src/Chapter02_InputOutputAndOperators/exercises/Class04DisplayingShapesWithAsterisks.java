@@ -1,4 +1,4 @@
-package exercisesChapter01;
+package Chapter02_InputOutputAndOperators.exercises;
 
 public class Class04DisplayingShapesWithAsterisks {
     public static void main(String[] args) {
