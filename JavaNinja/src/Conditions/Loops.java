@@ -11,8 +11,11 @@ public class Loops {
         int maxCloneNumbers = 5;
 
         /*
-         * while (if condition is true) {execute this code}
-         * */
+              while (if condition is true) {
+                   execute this code
+          }
+          */
+
         System.out.println("WHILE LOOP:");
         while (cloneNumbers < maxCloneNumbers) {
             cloneNumbers++;
