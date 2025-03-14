@@ -1,6 +1,6 @@
-package Beginner.TiposDeDados;
+package Beginner.DataTypes;
 
-public class DadosPrimitivos {
+public class PrimitiveData {
     public static void main(String[] args) {
 
         /*Código nosso que está em Java

@@ -1,6 +1,6 @@
-package Beginner.TiposDeDados;
+package Beginner.DataTypes;
 
-public class DadosNaoPrimitivos {
+public class NonPrimitiveData {
     public static void main(String[] args) {
 
         /*
