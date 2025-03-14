@@ -1,4 +1,4 @@
-package Conditions.challenge;
+package Conditions.challenge01;
 
 public class Konoha {
     public static void main(String[] args) {
