@@ -1,4 +1,4 @@
-package Conditions;
+package Beginner.Conditions;
 
 /*
 * Loops are used in programming to repeat a block of code multiple times.

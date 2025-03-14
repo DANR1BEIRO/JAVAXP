@@ -1,4 +1,4 @@
-package Conditions;
+package Beginner.Conditions;
 /*
  * SWITCH CASES
  * The switch statement in java is a control structure that allows us to

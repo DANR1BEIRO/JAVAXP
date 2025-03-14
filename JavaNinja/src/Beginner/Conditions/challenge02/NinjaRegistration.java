@@ -1,5 +1,4 @@
-package Conditions.challenge02;
-import Conditions.SwitchCases;
+package Beginner.Conditions.challenge02;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

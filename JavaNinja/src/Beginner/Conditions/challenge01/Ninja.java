@@ -1,4 +1,4 @@
-package Conditions.challenge01;
+package Beginner.Conditions.challenge01;
 
 public class Ninja {
 
