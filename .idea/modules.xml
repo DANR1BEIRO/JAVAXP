@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/How to program - Deitel/How to program - Deitel.iml" filepath="$PROJECT_DIR$/How to program - Deitel/How to program - Deitel.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVAXP.iml" filepath="$PROJECT_DIR$/.idea/JAVAXP.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaNinja/JavaNinja.iml" filepath="$PROJECT_DIR$/JavaNinja/JavaNinja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
