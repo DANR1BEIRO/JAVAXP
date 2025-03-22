@@ -21,4 +21,8 @@ public class Ninja {
     public void showInfo(){
         System.out.println("Ninja name: " + name + "\nNinja age: " + age);
     }
+
+    public void kunai(){
+        System.out.println(name + " threw a kunai");
+    }
 }

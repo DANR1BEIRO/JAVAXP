@@ -5,7 +5,10 @@ public class Main {
 
         Uchiha sasuke = new Uchiha("Sasuke Uchiha", 17);
         sasuke.showInfo();
+        sasuke.kunai();
+        sasuke.genericKunai();
         sasuke.useSharingan();
+        sasuke.taijutsu();
         System.out.println("");
 
         Uchiha itachi = new Uchiha("Itachi Uchiha", 20);

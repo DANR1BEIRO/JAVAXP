@@ -1,6 +1,6 @@
 package Ninja;
 
-class Uchiha extends Ninja{
+class Uchiha extends Ninja implements Jutsu{
 
     String sharingan = "Sharingan!";
 
@@ -10,5 +10,23 @@ class Uchiha extends Ninja{
 
     public void useSharingan(){
         System.out.println(getName() + " used " + sharingan);
+    }
+
+    @Override
+    public void kunai(){
+        System.out.println("Threw a fire kunai");
+    }
+
+    public void genericKunai(){
+        super.kunai();
+    }
+
+    @Override
+    public void taijutsu(){
+        System.out.println(getName() + " punched");
+    }
+
+    @Override
+    public void genjutsu() {
     }
 }
