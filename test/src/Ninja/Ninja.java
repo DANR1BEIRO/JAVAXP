@@ -17,4 +17,8 @@ public class Ninja {
     public int getAge() {
         return age;
     }
+
+    public void showInfo(){
+        System.out.println("Ninja name: " + name + "\nNinja age: " + age);
+    }
 }
