@@ -5,10 +5,11 @@ public class Dog {
     String breed;
     String name;
 
-    void bark(){
+    void bark() {
         System.out.println("AU! AU!");
     }
-    void dogInfo(){
+
+    void dogInfo() {
         System.out.println("\nDog created:\nName: " + name + "\nBreed: "
                 + breed + "\nSize: " + size);
         System.out.print(name + " says: ");
