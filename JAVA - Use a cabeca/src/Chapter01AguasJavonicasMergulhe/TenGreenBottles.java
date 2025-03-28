@@ -1,3 +1,5 @@
+package Chapter01AguasJavonicasMergulhe;
+
 public class TenGreenBottles {
     public static void main(String[] args) {
         int bottles = 10;

@@ -1,3 +1,5 @@
+package Chapter01AguasJavonicasMergulhe;
+
 public class Loop01 {
     public static void main(String[] args) {
         int number = 5;
