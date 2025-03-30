@@ -1,4 +1,4 @@
-package Intermediate.challenges;
+package Intermediate.constructor;
 
 public class Ninja {
 
