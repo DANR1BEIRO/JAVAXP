@@ -5,3 +5,4 @@ public class Hokage extends Ninja {
         super(name, village, age);
     }
 }
+

@@ -3,7 +3,7 @@ package Intermediate.challenges;
 public class Ninja {
 
     String name;
-    String village ;
+    String village;
     int age;
 
     public Ninja(String name, String village, int age) {
@@ -12,13 +12,14 @@ public class Ninja {
         this.age = age;
     }
 
-    public void info(){
+    public void info() {
         System.out.println("\nName: " + name);
         System.out.println("Age: " + age);
         System.out.println("Village: " + village);
     }
+
     // generic method
-    public void specialAbility(){
+    public void specialAbility() {
         System.out.println("My name is: " + name + " and this is my special attack!");
 
     }

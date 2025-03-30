@@ -11,3 +11,4 @@ public class Uchiha extends Ninja {
         System.out.println("My name is: " + name + " and this is my fire uchiha attack!");
     }
 }
+

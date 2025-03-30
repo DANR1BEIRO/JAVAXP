@@ -11,3 +11,4 @@ public class Uzumaki extends Ninja {
         System.out.println("My name is: " + name + " and this is my wind uzumaki attack!");
     }
 }
+
