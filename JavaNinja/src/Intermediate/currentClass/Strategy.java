@@ -1,4 +1,4 @@
-package Intermediate.constructor;
+package Intermediate.currentClass;
 
 public interface Strategy {
 
