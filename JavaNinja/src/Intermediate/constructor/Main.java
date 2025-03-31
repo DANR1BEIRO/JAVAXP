@@ -5,9 +5,16 @@ public class Main {
 
         Uzumaki naruto = new Uzumaki("Naruto Uzumaki", "Hidden Leaf", 16);
         naruto.info();
+        naruto.specialAbility();
+        naruto.ninjaBattleStrategy();
 
-        Hokage tobirama = new Hokage("Tobirama Senju", "Hidden Leaf", 30);
-        tobirama.info();
+        Uchiha sasuke = new Uchiha("Sasuke Uchiha", "Hidden Leaf", 17);
+        sasuke.info();
+        sasuke.specialAbility();
+        sasuke.ninjaBattleStrategy();
 
+        Uchiha itachi = new Uchiha("Itachi Uchiha", "Hidden Leaf", 27);
+        itachi.info();
+        itachi.specialAbility();
     }
 }

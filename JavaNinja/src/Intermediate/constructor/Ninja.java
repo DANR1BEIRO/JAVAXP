@@ -1,6 +1,6 @@
 package Intermediate.constructor;
 
-public class Ninja {
+public abstract class Ninja implements Strategy {
 
     String name;
     String village;
@@ -21,7 +21,11 @@ public class Ninja {
     // generic method
     public void specialAbility() {
         System.out.println("My name is: " + name + " and this is my special attack!");
+    }
 
+    @Override
+    public void ninjaBattleStrategy() {
+        System.out.println("This is my battle strategy");
     }
 }
 

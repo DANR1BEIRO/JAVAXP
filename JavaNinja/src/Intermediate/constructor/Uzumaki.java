@@ -8,7 +8,7 @@ public class Uzumaki extends Ninja {
 
     @Override
     public void specialAbility() {
-        System.out.println("My name is: " + name + " and this is my wind uzumaki attack!");
+        System.out.println("I'm " + name + " and this is my wind uzumaki attack!");
     }
 }
 
