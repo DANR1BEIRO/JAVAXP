@@ -8,11 +8,6 @@ public class Main {
         naruto.specialAbility();
         naruto.ninjaBattleStrategy();
 
-        Uchiha itachi = new Uchiha("Itachi Uchiha", 27, "Hidden Leaf", RankNinja.JONIN, 350);
-        itachi.info();
-        itachi.specialAbility();
-        itachi.sharinganActivated();
-
         Hatake kakashi = new Hatake("Kakashi Hatake", 35, "Hidden Leaf", RankNinja.JONIN, 500);
         kakashi.info();
         kakashi.specialAbility();
@@ -29,5 +24,10 @@ public class Main {
         for (RankNinja rank : RankNinja.values()) {
             System.out.println(rank + ": " + rank.getDescription());
         }
+
+        // Using toString() method
+        Uchiha sasuke = new Uchiha("Sasuke Uchiha", 16, "Hidden Leaf", RankNinja.GENIN, 20);
+        System.out.println(sasuke);
+        sasuke.sharinganActivated();
     }
 }

@@ -44,5 +44,14 @@ public abstract class Ninja implements Strategy {
     public void ninjaBattleStrategy() {
         System.out.println("This is my battle strategy");
     }
+
+
+    public String toString(){
+        return "\nName: " + name +
+               "\nAge: " + age +
+               "\nVillage: " + village +
+               "\nRank: " + rank + " - " + rank.getDescription() +
+               "\nMission Accomplished: " + missionCompleted;
+    }
 }
 
