@@ -1,6 +1,6 @@
 __PROGRAMMING LOGIC EXERCISES__
 
-- [x]  Create an algorithm that receives three values: A, B and C; then, print the
+- [x] 1 - Create an algorithm that receives three values: A, B and C; then, print the
 sum of A and B, and check if the sum is smaller than C.
 
 -[] 2 - Create an algorithm to receive any number and print whether the number is even or odd, positive or negative.
