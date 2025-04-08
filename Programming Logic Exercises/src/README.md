@@ -3,7 +3,7 @@ __PROGRAMMING LOGIC EXERCISES__
 - [x] 1 - Create an algorithm that receives three values: A, B and C; then, print the
 sum of A and B, and check if the sum is smaller than C.
 
--[] 2 - Create an algorithm to receive any number and print whether the number is even or odd, positive or negative.
+- [x] 2 - Create an algorithm to receive any number and print whether the number is even or odd, positive or negative.
 
 -[] 3 - Create an algorithm that reads two integer values A and B. If the values of A and B are equal, it should add the two values; otherwise, it should multiply A by B. At the end of either calculation, the result should be assigned to a variable C and printed on the screen.
 
