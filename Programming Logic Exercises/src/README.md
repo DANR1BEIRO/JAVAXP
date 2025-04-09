@@ -5,11 +5,14 @@ sum of A and B, and check if the sum is smaller than C.
 
 - [x] 2 - Create an algorithm to receive any number and print whether the number is even or odd, positive or negative.
 
--[] 3 - Create an algorithm that reads two integer values A and B. If the values of A and B are equal, it should add the two values; otherwise, it should multiply A by B. At the end of either calculation, the result should be assigned to a variable C and printed on the screen.
+- [x] 3 - Create an algorithm that reads two integer values A and B. If the values of A and B are equal, it should add the
+two values; otherwise, it should multiply A by B. At the end of either calculation, the result should be assigned to a 
+variable C and printed on the screen.
 
 -[] 4 - Create an algorithm that receives an integer and prints its predecessor and successor on the screen.
 
--[] 5 - Create an algorithm that reads the value of the minimum wage and the salary of a user, calculates how many minimum wages the user earns, and prints the result on the screen. (Base for the minimum wage: R$ 1,293.20).
+-[] 5 - Create an algorithm that reads the value of the minimum wage and the salary of a user, calculates how many 
+minimum wages the user earns, and prints the result on the screen. (Base for the minimum wage: R$ 1,293.20).
 
 -[] 6 - Create an algorithm that reads any value and prints it on the screen with a 5% adjustment.
 
@@ -17,7 +20,8 @@ sum of A and B, and check if the sum is smaller than C.
 
 -[] 8 - Create an algorithm that reads three different integer values and prints them in descending order.
 
--[] 9 - Create an algorithm that calculates a person's BMI (Body Mass Index), reads their weight and height, and prints their condition on the screen according to the table below:
+-[] 9 - Create an algorithm that calculates a person's BMI (Body Mass Index), reads their weight and height, and prints 
+their condition on the screen according to the table below:
 
 BMI Formula:
 BMI=weight(height)2
