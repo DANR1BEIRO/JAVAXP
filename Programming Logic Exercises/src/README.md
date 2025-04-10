@@ -9,7 +9,7 @@ sum of A and B, and check if the sum is smaller than C.
 two values; otherwise, it should multiply A by B. At the end of either calculation, the result should be assigned to a 
 variable C and printed on the screen.
 
--[] 4 - Create an algorithm that receives an integer and prints its predecessor and successor on the screen.
+- [x] 4 - Create an algorithm that receives an integer and prints its predecessor and successor on the screen.
 
 -[] 5 - Create an algorithm that reads the value of the minimum wage and the salary of a user, calculates how many 
 minimum wages the user earns, and prints the result on the screen. (Base for the minimum wage: R$ 1,293.20).
