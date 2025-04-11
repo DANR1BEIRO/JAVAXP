@@ -11,7 +11,7 @@ variable C and printed on the screen.
 
 - [x] 4 - Create an algorithm that receives an integer and prints its predecessor and successor on the screen.
 
--[] 5 - Create an algorithm that reads the value of the minimum wage and the salary of a user, calculates how many 
+- [x] 5 - Create an algorithm that reads the value of the minimum wage and the salary of a user, calculates how many 
 minimum wages the user earns, and prints the result on the screen. (Base for the minimum wage: R$ 1,293.20).
 
 -[] 6 - Create an algorithm that reads any value and prints it on the screen with a 5% adjustment.
