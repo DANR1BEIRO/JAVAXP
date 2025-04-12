@@ -2,25 +2,23 @@ package Banco;
 
 public class Main {
     public static void main(String[] args) {
-        ContaCorrente cc = new ContaCorrente();
-        ContaPoupanca poupanca = new ContaPoupanca();
+        ContaCorrente cc = new ContaCorrente("goku", 8001);
+        ContaPoupanca cp = new ContaPoupanca("Vegeta", 0001);
 
-        cc.setNomeCliente("Gohan");
-        cc.setNumeroConta("12345");
+        System.out.println("Operações na conta corrente:");
         cc.setUsaCheque(true);
-        cc.infoCliente();
+        cc.info();
+        cc.depositar(850.23);
+        cc.sacar(100);
+        cc.sacar(9000);
 
-        cc.depositar(10000);
-        cc.sacar(700);
-
-        System.out.println("");
-
-        poupanca.setNomeCliente("Goku");
-        poupanca.setNumeroConta("00001");
-        poupanca.infoCliente();
-        poupanca.depositar(10000);
-        poupanca.aplicarRendimento(5);
-        poupanca.sacar(3450);
-        poupanca.aplicarRendimento(5);
+        System.out.println("\nOperações na conta poupanca:");
+        cp.info();
+        cp.depositar(600);
+        cp.rendimento(5);
+        cp.sacar(500);
+        cp.rendimento(5);
+        cp.sacar(10000);
+        cp.rendimento(0);
     }
 }

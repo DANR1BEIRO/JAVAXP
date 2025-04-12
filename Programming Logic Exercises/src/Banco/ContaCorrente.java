@@ -1,8 +1,11 @@
 package Banco;
 
 public class ContaCorrente extends Conta {
-    private boolean usaCheque;
+    public boolean usaCheque;
 
+    public ContaCorrente(String nomeConta, int numeroConta) {
+        super(nomeConta, numeroConta);
+    }
 
     public void setUsaCheque(boolean usaCheque) {
         this.usaCheque = usaCheque;
@@ -10,26 +13,35 @@ public class ContaCorrente extends Conta {
 
     @Override
     public void depositar(double deposito) {
-        saldoConta += deposito;
-        System.out.printf("Depósito de R$%.2f na conta corrente feito com sucesso!\n", deposito);
-        System.out.println("Saldo atual da conta corrente após o depósito: R$" + getSaldoAtual());
+        if (deposito <= 0) {
+            System.out.println("Valor inválido! Depósito não realizado!");
+            return;
+        }
+        System.out.printf("Depósito na conta corrente no valor de R$%.2f realizado com sucesso!\n", deposito);
+        super.depositar(deposito);
     }
 
     @Override
     public void sacar(double saque) {
-        if (saldoConta - saque < 0) {
-            System.out.println("Saldo insuficiente para saque");
+        if (saque <= 0) {
+            System.out.println("Valor inválido! Saque não realizado!");
+        }
+        if (getSaldoAtual() - saque < 0) {
+            System.out.println("Saldo insuficiente! Saque não realizado!");
             return;
         }
-        saldoConta -= saque;
-        System.out.printf("Saque de R$%.2f da conta corrente realizado com sucesso!\n", saque);
-        System.out.println("Saldo atual da conta corrente após o depósito: R$" + getSaldoAtual());
+        System.out.printf("Saque na conta corrente no valor de R$%.2f realizado com sucesso!\n", saque);
+        super.sacar(saque);
     }
 
     @Override
-    public void infoCliente() {
-        super.infoCliente();
-        System.out.println("Conta corrente possui cheque: " + usaCheque);
+    public void info() {
+        super.info();
+        if (usaCheque) {
+            System.out.println("Faz uso de cheque.\n");
+        } else {
+            System.out.println("Não faz uso de cheque.\n");
+
+        }
     }
 }
-
