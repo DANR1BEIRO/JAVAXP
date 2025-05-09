@@ -18,14 +18,13 @@ minimum wages the user earns, and prints the result on the screen. (Base for the
 
 -[x] 7 - Create an algorithm that reads two boolean (logical) values and determines if both are TRUE or FALSE.
 
--[] 8 - Create an algorithm that reads three different integer values and prints them in descending order.
+-[x] 8 - Create an algorithm that reads three different integer values and prints them in descending order.
 
--[] 9 - Create an algorithm that calculates a person's BMI (Body Mass Index), reads their weight and height, and prints 
+-[x] 9 - Create an algorithm that calculates a person's BMI (Body Mass Index), reads their weight and height, and prints 
 their condition on the screen according to the table below:
 
 BMI Formula:
-BMI=weight(height)2
-BMI=(height)2weight​
+BMI = weight(kg) / height(m2)
 
 BMI Conditions Table:
 
