@@ -1,7 +1,6 @@
 package ex07;
 
 import java.util.Scanner;
-
 class BooleanValues {
     public boolean getBoolean(String message, Scanner scanner) {
         while (true) {
