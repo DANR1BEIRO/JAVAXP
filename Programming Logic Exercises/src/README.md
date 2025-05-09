@@ -16,7 +16,7 @@ minimum wages the user earns, and prints the result on the screen. (Base for the
 
 -[x] 6 - Create an algorithm that reads any value and prints it on the screen with a 5% adjustment.
 
--[] 7 - Create an algorithm that reads two boolean (logical) values and determines if both are TRUE or FALSE.
+-[x] 7 - Create an algorithm that reads two boolean (logical) values and determines if both are TRUE or FALSE.
 
 -[] 8 - Create an algorithm that reads three different integer values and prints them in descending order.
 
