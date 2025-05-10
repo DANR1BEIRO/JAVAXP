@@ -35,7 +35,7 @@ BMI Conditions Table:
     Between 35.0 and 39.9: Obesity Grade II (severe)
     Greater than or equal to 40: Obesity Grade III (morbid)
 
--[] 10 - Create an algorithm that reads three grades obtained by a student and prints the average of the grades on the screen.
+-[x] 10 - Create an algorithm that reads three grades obtained by a student and prints the average of the grades on the screen.
 
 -[] 11 - Create an algorithm that reads four grades obtained by a student, calculates the average of the grades, and prints the student's name and whether they passed or failed. To be considered passed, the student's final average must be greater than or equal to 7.
 
