@@ -52,7 +52,7 @@ Payment Condition Codes Table:
 3 - Credit card (two installments): Normal product price, no interest
 4 - Credit card (three or more installments): Normal product price plus 10% interest
 
--[] 13 - Create an algorithm that reads a person's name and age and prints their name and whether they are a minor or an adult.
+-[x] 13 - Create an algorithm that reads a person's name and age and prints their name and whether they are a minor or an adult.
 
 -[] 14 - Create an algorithm that receives two values, A and B, swaps the value of A with B and the value of B with A, and prints the values on the screen.
 
