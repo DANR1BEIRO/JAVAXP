@@ -35,11 +35,16 @@ BMI Conditions Table:
     Between 35.0 and 39.9: Obesity Grade II (severe)
     Greater than or equal to 40: Obesity Grade III (morbid)
 
--[x] 10 - Create an algorithm that reads three grades obtained by a student and prints the average of the grades on the screen.
+-[x] 10 - Create an algorithm that reads three grades obtained by a student and 
+- prints the average of the grades on the screen.
 
--[] 11 - Create an algorithm that reads four grades obtained by a student, calculates the average of the grades, and prints the student's name and whether they passed or failed. To be considered passed, the student's final average must be greater than or equal to 7.
+-[] 11 - Create an algorithm that reads four grades obtained by a student, calculates the average of the grades, 
+and prints the student's name and whether they passed or failed. To be considered passed,
+the student's final average must be greater than or equal to 7.
 
--[] 12 - Create an algorithm that reads the value of a product and determines the amount to be paid based on the buyer's chosen payment method. Print the final amount to be paid on the screen. Use the payment condition codes from the table below to calculate the appropriate amount.
+-[] 12 - Create an algorithm that reads the value of a product and determines the amount to 
+be paid based on the buyer's chosen payment method. Print the final amount to be paid on the 
+screen. Use the payment condition codes from the table below to calculate the appropriate amount.
 
 Payment Condition Codes Table:
 1 - Cash or Pix: 15% discount
