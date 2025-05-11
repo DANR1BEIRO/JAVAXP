@@ -54,7 +54,7 @@ Payment Condition Codes Table:
 
 -[x] 13 - Create an algorithm that reads a person's name and age and prints their name and whether they are a minor or an adult.
 
--[] 14 - Create an algorithm that receives two values, A and B, swaps the value of A with B and the value of B with A, and prints the values on the screen.
+-[x] 14 - Create an algorithm that receives two values, A and B, swaps the value of A with B and the value of B with A, and prints the values on the screen.
 
 -[] 15 - Create an algorithm that reads the year a person was born and prints how many years, months, and days they have lived. Assume a year has 365 days and a month has 30 days.
 
