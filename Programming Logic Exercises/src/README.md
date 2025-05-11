@@ -52,23 +52,30 @@ Payment Condition Codes Table:
 3 - Credit card (two installments): Normal product price, no interest
 4 - Credit card (three or more installments): Normal product price plus 10% interest
 
--[x] 13 - Create an algorithm that reads a person's name and age and prints their name and whether they are a minor or an adult.
+-[x] 13 - Create an algorithm that reads a person's name and age and prints 
+- their name and whether they are a minor or an adult.
 
--[x] 14 - Create an algorithm that receives two values, A and B, swaps the value of A with B and the value of B with A, and prints the values on the screen.
+-[x] 14 - Create an algorithm that receives two values, A and B, swaps the value 
+- of A with B and the value of B with A, and prints the values on the screen.
 
--[x] 15 - Create an algorithm that reads the year a person was born and prints how many years, months, and days they have lived. Assume a year has 365 days and a month has 30 days.
+-[x] 15 - Create an algorithm that reads the year a person was born and prints how many years, months, 
+- and days they have lived. Assume a year has 365 days and a month has 30 days.
 
 (Example: 5 years, 2 months, and 15 days of life)
 
--[] 16 - Create an algorithm that reads three values representing the three sides of a triangle, verifies if they are valid, and determines whether the triangle is equilateral, isosceles, or scalene.
+-[x] 16 - Create an algorithm that reads three values representing the three sides of a triangle, verifies if they are 
+valid, and determines whether the triangle is equilateral, isosceles, or scalene.
 
--[] 17 - Create an algorithm that reads a temperature in Fahrenheit and calculates the corresponding temperature in Celsius. Print both temperatures on the screen.
+-[] 17 - Create an algorithm that reads a temperature in Fahrenheit and calculates the 
+corresponding temperature in Celsius. Print both temperatures on the screen.
 
 Formula:
 C=5×(F−32)9
-C=95×(F−32)​
+C=95×(F−32)
 
--[] 18 - Francisco is 1.50m tall and grows 2 centimeters per year, while Sara is 1.10m tall and grows 3 centimeters per year. Create an algorithm that calculates and prints how many years it will take for Francisco to be taller than Sara.
+-[] 18 - Francisco is 1.50m tall and grows 2 centimeters per year, while Sara is 1.10m tall and grows 
+3 centimeters per year. Create an algorithm that calculates and prints how many years 
+it will take for Francisco to be taller than Sara.
 
 -[] 19 - Create an algorithm that prints the multiplication table from 1 to 10 on the screen.
 
@@ -76,14 +83,19 @@ C=95×(F−32)​
 
 -[] 21 - Create an algorithm that shows a random value between 0 and 100.
 
--[] 22 - Create an algorithm that reads two integer values A and B and prints the quotient and remainder of the integer division between them.
+-[] 22 - Create an algorithm that reads two integer values A and B and 
+prints the quotient and remainder of the integer division between them.
 
--[] 23 - Create an algorithm that calculates the net salary of a teacher. The provided information will be: the value of the hourly wage, the number of hours taught in the month, and the INSS discount percentage. Print the final net salary on the screen.
+-[] 23 - Create an algorithm that calculates the net salary of a teacher. The provided 
+information will be: the value of the hourly wage, the number of hours taught in the 
+month, and the INSS discount percentage. Print the final net salary on the screen.
 
--[] 24 - Create an algorithm that calculates the amount of fuel consumed during a trip, knowing that the car does 12 km per liter. The user must provide the time spent on the trip, their average speed, the distance traveled, and the amount of fuel used for the trip.
+-[] 24 - Create an algorithm that calculates the amount of fuel consumed during a trip, 
+knowing that the car does 12 km per liter. The user must provide the time spent on the trip, 
+their average speed, the distance traveled, and the amount of fuel used for the trip.
 
 Formulas:
 distance=time×speed
 distance=time×speed
 fuel used=distance12
-fuel used=12distance​
+fuel used=12distance
