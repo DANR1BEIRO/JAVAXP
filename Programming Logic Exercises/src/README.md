@@ -24,7 +24,7 @@ minimum wages the user earns, and prints the result on the screen. (Base for the
 their condition on the screen according to the table below:
 
 BMI Formula:
-BMI = weight(kg) / height(m2)
+BMI = weight(kg) / height(m2)ex17
 
 BMI Conditions Table:
 
@@ -66,7 +66,7 @@ Payment Condition Codes Table:
 - [x] 16 - Create an algorithm that reads three values representing the three sides of a triangle, verifies if they are 
 valid, and determines whether the triangle is equilateral, isosceles, or scalene.
 
--[] 17 - Create an algorithm that reads a temperature in Fahrenheit and calculates the 
+-[x] 17 - Create an algorithm that reads a temperature in Fahrenheit and calculates the 
 corresponding temperature in Celsius. Print both temperatures on the screen.
 
 Formula:
