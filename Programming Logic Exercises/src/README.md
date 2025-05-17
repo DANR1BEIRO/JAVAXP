@@ -14,13 +14,13 @@ variable C and printed on the screen.
 - [x] 5 - Create an algorithm that reads the value of the minimum wage and the salary of a user, calculates how many 
 minimum wages the user earns, and prints the result on the screen. (Base for the minimum wage: R$ 1,293.20).
 
--[x] 6 - Create an algorithm that reads any value and prints it on the screen with a 5% adjustment.
+- [x] 6 - Create an algorithm that reads any value and prints it on the screen with a 5% adjustment.
 
--[x] 7 - Create an algorithm that reads two boolean (logical) values and determines if both are TRUE or FALSE.
+- [x] 7 - Create an algorithm that reads two boolean (logical) values and determines if both are TRUE or FALSE.
 
--[x] 8 - Create an algorithm that reads three different integer values and prints them in descending order.
+- [x] 8 - Create an algorithm that reads three different integer values and prints them in descending order.
 
--[x] 9 - Create an algorithm that calculates a person's BMI (Body Mass Index), reads their weight and height, and prints 
+- [x] 9 - Create an algorithm that calculates a person's BMI (Body Mass Index), reads their weight and height, and prints 
 their condition on the screen according to the table below:
 
 BMI Formula:
@@ -35,14 +35,14 @@ BMI Conditions Table:
     Between 35.0 and 39.9: Obesity Grade II (severe)
     Greater than or equal to 40: Obesity Grade III (morbid)
 
--[x] 10 - Create an algorithm that reads three grades obtained by a student and 
-- prints the average of the grades on the screen.
+- [x] 10 - Create an algorithm that reads three grades obtained by a student and 
+prints the average of the grades on the screen.
 
--[x] 11 - Create an algorithm that reads four grades obtained by a student, calculates the average of the grades, 
+- [x] 11 - Create an algorithm that reads four grades obtained by a student, calculates the average of the grades, 
 and prints the student's name and whether they passed or failed. To be considered passed,
 the student's final average must be greater than or equal to 7.
 
--[x] 12 - Create an algorithm that reads the value of a product and determines the amount to 
+- [x] 12 - Create an algorithm that reads the value of a product and determines the amount to 
 be paid based on the buyer's chosen payment method. Print the final amount to be paid on the 
 screen. Use the payment condition codes from the table below to calculate the appropriate amount.
 
@@ -52,18 +52,18 @@ Payment Condition Codes Table:
 3 - Credit card (two installments): Normal product price, no interest
 4 - Credit card (three or more installments): Normal product price plus 10% interest
 
--[x] 13 - Create an algorithm that reads a person's name and age and prints 
+- [x] 13 - Create an algorithm that reads a person's name and age and prints 
 - their name and whether they are a minor or an adult.
 
--[x] 14 - Create an algorithm that receives two values, A and B, swaps the value 
+- [x] 14 - Create an algorithm that receives two values, A and B, swaps the value 
 - of A with B and the value of B with A, and prints the values on the screen.
 
--[x] 15 - Create an algorithm that reads the year a person was born and prints how many years, months, 
+- [x] 15 - Create an algorithm that reads the year a person was born and prints how many years, months, 
 - and days they have lived. Assume a year has 365 days and a month has 30 days.
 
 (Example: 5 years, 2 months, and 15 days of life)
 
--[x] 16 - Create an algorithm that reads three values representing the three sides of a triangle, verifies if they are 
+- [x] 16 - Create an algorithm that reads three values representing the three sides of a triangle, verifies if they are 
 valid, and determines whether the triangle is equilateral, isosceles, or scalene.
 
 -[] 17 - Create an algorithm that reads a temperature in Fahrenheit and calculates the 
