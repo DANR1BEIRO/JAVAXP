@@ -70,8 +70,8 @@ valid, and determines whether the triangle is equilateral, isosceles, or scalene
 corresponding temperature in Celsius. Print both temperatures on the screen.
 
 Formula:
-C=5×(F−32)9
-C=95×(F−32)
+F = (C * 1.8) + 32
+C = (F - 32) * 5/9
 
 -[] 18 - Francisco is 1.50m tall and grows 2 centimeters per year, while Sara is 1.10m tall and grows 
 3 centimeters per year. Create an algorithm that calculates and prints how many years 
