@@ -91,7 +91,7 @@ information will be: the value of the hourly wage, the number of hours taught in
 month, and the INSS discount percentage. Print the final net salary on the screen.
 
 - [x] 24 - Write an algorithm that calculates the total amount of fuel consumed during a trip. 
-Assume the car's fuel efficiency is 12 km per liter. The user should provide the time spent on 
+Assume the car's fuel efficiency is 12 km per li ter. The user should provide the time spent on 
 the trip (in hours) and the average speed (in km/h). The algorithm should then calculate and 
 display the total distance traveled and the amount of fuel used.
 
