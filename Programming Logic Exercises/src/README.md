@@ -90,12 +90,12 @@ prints the quotient and remainder of the integer division between them.
 information will be: the value of the hourly wage, the number of hours taught in the 
 month, and the INSS discount percentage. Print the final net salary on the screen.
 
-- [] 24 - Create an algorithm that calculates the amount of fuel consumed during a trip, 
-knowing that the car does 12 km per liter. The user must provide the time spent on the trip, 
-their average speed, the distance traveled, and the amount of fuel used for the trip.
+- [x] 24 - Write an algorithm that calculates the total amount of fuel consumed during a trip. 
+Assume the car's fuel efficiency is 12 km per liter. The user should provide the time spent on 
+the trip (in hours) and the average speed (in km/h). The algorithm should then calculate and 
+display the total distance traveled and the amount of fuel used.
 
 Formulas:
-distance=time×speed
-distance=time×speed
-fuel used=distance12
-fuel used=12distance
+
+    distance = time × speed
+    fuel used = distance / 12
