@@ -81,16 +81,16 @@ it will take for Sara to be taller than Francisco.
 
 - [x] 20 - Create an algorithm that receives an integer and prints its multiplication table on the screen.
 
--[] 21 - Create an algorithm that shows a random value between 0 and 100.
+- [x] 21 - Create an algorithm that shows a random value between 0 and 100.
 
--[] 22 - Create an algorithm that reads two integer values A and B and 
+- [x] 22 - Create an algorithm that reads two integer values A and B and 
 prints the quotient and remainder of the integer division between them.
 
--[] 23 - Create an algorithm that calculates the net salary of a teacher. The provided 
+- [x] 23 - Create an algorithm that calculates the net salary of a teacher. The provided 
 information will be: the value of the hourly wage, the number of hours taught in the 
 month, and the INSS discount percentage. Print the final net salary on the screen.
 
--[] 24 - Create an algorithm that calculates the amount of fuel consumed during a trip, 
+- [] 24 - Create an algorithm that calculates the amount of fuel consumed during a trip, 
 knowing that the car does 12 km per liter. The user must provide the time spent on the trip, 
 their average speed, the distance traveled, and the amount of fuel used for the trip.
 
