@@ -73,13 +73,13 @@ Formula:
 F = (C * 1.8) + 32
 C = (F - 32) * 5/9
 
--[] 18 - Francisco is 1.50m tall and grows 2 centimeters per year, while Sara is 1.10m tall and grows 
+-[x] 18 - Francisco is 1.50m tall and grows 2 centimeters per year, while Sara is 1.10m tall and grows 
 3 centimeters per year. Create an algorithm that calculates and prints how many years 
-it will take for Francisco to be taller than Sara.
+it will take for Sara to be taller than Francisco.
 
--[] 19 - Create an algorithm that prints the multiplication table from 1 to 10 on the screen.
+-[x] 19 - Create an algorithm that prints the multiplication table from 1 to 10 on the screen.
 
--[] 20 - Create an algorithm that receives an integer and prints its multiplication table on the screen.
+-[x] 20 - Create an algorithm that receives an integer and prints its multiplication table on the screen.
 
 -[] 21 - Create an algorithm that shows a random value between 0 and 100.
 
