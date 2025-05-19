@@ -46,7 +46,9 @@
   distance = time × speed  
   fuel used = distance / 12
 
-- ⬜ 25 - Write a program to calculate the reduction in a smoker's lifespan. Ask for the number of cigarettes smoked per day and how many years the person has smoked. Consider that each cigarette reduces life by 10 minutes. Calculate how many days of life a smoker will lose and display the total in days.
+- ✅ 25 - Write a program to calculate the reduction in a smoker's lifespan. Ask for the number of cigarettes
+smoked per day and how many years the person has smoked. Consider that each cigarette reduces life by 10 minutes. 
+Calculate how many days of life a smoker will lose and display the total in days.
 - ⬜ 26 - Write a program that asks for a car's speed. If it exceeds 80 km/h, display a message saying the user was fined. In this case, show the fine amount, charging R$ 5.00 for each km above the speed limit.
 - ⬜ 27 - Create an algorithm that asks for the distance a passenger wants to travel in km. Calculate the ticket price, charging R$ 0.50 per km for trips up to 200 km and R$ 0.45 for longer trips.
 - ⬜ 28 - Create a program that reads the length of three line segments. Analyze their lengths and say if it is possible to form a triangle with these segments. Mathematically, for three segments to form a triangle, the length of each side must be less than the sum of the other two.
