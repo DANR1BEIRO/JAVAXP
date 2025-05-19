@@ -49,11 +49,22 @@
 - ✅ 25 - Write a program to calculate the reduction in a smoker's lifespan. Ask for the number of cigarettes
 smoked per day and how many years the person has smoked. Consider that each cigarette reduces life by 10 minutes. 
 Calculate how many days of life a smoker will lose and display the total in days.
-- ⬜ 26 - Write a program that asks for a car's speed. If it exceeds 80 km/h, display a message saying the user was fined. In this case, show the fine amount, charging R$ 5.00 for each km above the speed limit.
-- ⬜ 27 - Create an algorithm that asks for the distance a passenger wants to travel in km. Calculate the ticket price, charging R$ 0.50 per km for trips up to 200 km and R$ 0.45 for longer trips.
-- ⬜ 28 - Create a program that reads the length of three line segments. Analyze their lengths and say if it is possible to form a triangle with these segments. Mathematically, for three segments to form a triangle, the length of each side must be less than the sum of the other two.
+
+- ⬜ 26 - Write a program that asks for a car's speed. If it exceeds 80 km/h, display a message saying the user 
+was fined. In this case, show the fine amount, charging R$ 5.00 for each km above the speed limit.
+
+- ⬜ 27 - Create an algorithm that asks for the distance a passenger wants to travel in km. 
+Calculate the ticket price, charging R$ 0.50 per km for trips up to 200 km and R$ 0.45 for longer trips.
+
+- ⬜ 28 - Create a program that reads the length of three line segments. Analyze their lengths
+and say if it is possible to form a triangle with these segments. Mathematically, for three segments
+to form a triangle, the length of each side must be less than the sum of the other two.
+
 - ⬜ 29 - Create a Rock-Paper-Scissors game.
-- ⬜ 30 - Create a game where the computer randomly selects a number between 1 and 5. The player tries to guess the chosen number.
+
+- ⬜ 30 - Create a game where the computer randomly selects a number between 1 and 5.
+The player tries to guess the chosen number.
+
 - ⬜ 31 - A car rental company needs to charge for its services. The rental of a popular car costs R$ 90.00 per day and a luxury car costs R$ 150.00 per day. Additionally, the customer pays per km driven. Write a program that reads the type of car rented (popular or luxury), the number of rental days, and the number of km driven. At the end, show the price to be paid according to the following rules:  
   Popular cars:  
   - Up to 100 km: R$ 0.20 per km  
