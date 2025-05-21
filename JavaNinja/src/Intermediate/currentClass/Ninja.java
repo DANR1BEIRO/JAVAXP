@@ -27,6 +27,10 @@ public abstract class Ninja implements Strategy {
         this.missionCompleted = missionCompleted;
     }
 
+    final public void throwKunai(){
+        System.out.println("THIS IS A FINAL METHOD FROM SUPER CLASS");
+    }
+
     public void info() {
         System.out.println("\nName: " + name);
         System.out.println("Age: " + age);
