@@ -7,7 +7,7 @@ public class Main {
         naruto.info();
         naruto.specialAbility();
         naruto.ninjaBattleStrategy();
-        naruto.throwKunai(); // final method from superclass. Can't be overrided because it's FINAL.
+        naruto.throwKunai(); // final method from superclass. Can't be overrided because it's FINAL
 
         Hatake kakashi = new Hatake("Kakashi Hatake", 35, "Hidden Leaf", RankNinja.JONIN, 500);
         kakashi.info();
