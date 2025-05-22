@@ -13,6 +13,10 @@ public class Hatake extends Ninja implements Sharingan, Anbu {
         super(name, age, village, rank, missionCompleted);
     }
 
+    /**
+     * Method:
+     * This method is implemented from the interface Sharingan
+     */
     public void sharinganActivated() {
         System.out.println(name + " ativated the sharingan!");
     }

@@ -3,11 +3,12 @@ package Intermediate.currentClass;
 public class Main {
     public static void main(String[] args) {
 
-        Uzumaki naruto = new Uzumaki("Naruto Uzumaki", 15, "Hidden Leaf", RankNinja.GENIN, 5);
+        Uzumaki naruto = new Uzumaki("Naruto Uzumaki", 15, "Hidden Leaf", RankNinja.GENIN, 5, Biju.KURAMA);
         naruto.info();
         naruto.specialAbility();
         naruto.ninjaBattleStrategy();
         naruto.throwKunai(); // final method from superclass. Can't be overrided because it's FINAL
+        System.out.println("Biju: " + naruto.biju);
 
         Hatake kakashi = new Hatake("Kakashi Hatake", 35, "Hidden Leaf", RankNinja.JONIN, 500);
         kakashi.info();
@@ -20,15 +21,16 @@ public class Main {
         madara.specialAbility();
         madara.ninjaBattleStrategy();
 
-        System.out.println(" ");
-        System.out.println("Iterating through the RankNinja enum:");
-        for (RankNinja rank : RankNinja.values()) {
-            System.out.println(rank + ": " + rank.getDescription());
-        }
 
         // Using toString() method
         Uchiha sasuke = new Uchiha("Sasuke Uchiha", 16, "Hidden Leaf", RankNinja.GENIN, 20);
         System.out.println(sasuke);
         sasuke.sharinganActivated();
+
+        System.out.println(" ");
+        System.out.println("Iterating through the RankNinja enum:");
+        for (RankNinja rank : RankNinja.values()) {
+            System.out.println(rank + ": " + rank.getDescription());
+        }
     }
 }
