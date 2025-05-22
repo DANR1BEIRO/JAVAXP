@@ -53,5 +53,8 @@ public class NarutoList {
         for (String ninja : Sennin) {
             System.out.println(ninja);
         }
+
+        // Printa a lista inteira
+        System.out.println(Sennin);
     }
 }
