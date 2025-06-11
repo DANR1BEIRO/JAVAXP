@@ -65,13 +65,7 @@ public class Menu {
                     ninjaList.displayNinjas();
                     break;
                 case 4:
-                    int index = getInt("Enter the index: ", scanner);
-                    LinkedListNinja.NodeNinja ninja = ninjaList.getIndex(index);
-                    if (ninja == null) {
-                        System.out.println("Index out of bounds");
-                    } else {
-                        System.out.println("\nThe ninja at index " + index + " is: " + ninja.name);
-                    }
+                    getNinjaByIndex();
                     break;
                 case 0:
                     System.out.println("Closing menu...");
